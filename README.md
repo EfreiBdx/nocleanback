@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/build-passing-brightgreen">
     <img src="https://img.shields.io/badge/node--lts-16.15.1-brightgreen">
     <img src="https://img.shields.io/badge/npm-8.13.2-blue">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC0WQ4H6f2W14eS45bRDfp1Q?style=social">
+    
   <br><br><br><br>
 </p>
 
