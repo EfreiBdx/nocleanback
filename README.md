@@ -42,6 +42,6 @@ npm install
 Ce projet démarre de 2 façon possible. Mode production et mode développement
 
 ```
-npm run start
-npm run dev
+docker compose up
+docker compose up -d
 ```
