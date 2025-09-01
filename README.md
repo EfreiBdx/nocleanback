@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.youtube.com/c/faisonslepoint" target="_blank" style="font-size:22px">FaisonsLePoint</a>
+
 <br><br>
 </p>
 <p align="center">
@@ -29,10 +29,7 @@ Ce projet est le back de l'applicatif Cocktail. Il s'agit d'un exercice de réal
 
 
 
-# Vidéos
 
-La réalisation de cet applicatif est entièrement disponible en vidéo sur la chaine
-[FaisonLePoint - Playlist ExpressJS](https://www.youtube.com/watch?v=iCZcE-JKbyY&list=PLwJWw4Pbl4w_oHjPIjkdVtwLeQECK08jv)
 
 # Installation
 Une fois le dépôt cloné et une fois rendu dans le dossier du projet ne pas oublier d'installer les dépendances
