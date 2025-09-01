@@ -31,15 +31,9 @@ Ce projet est le back de l'applicatif Cocktail. Il s'agit d'un exercice de réal
 
 
 
-# Installation
-Une fois le dépôt cloné et une fois rendu dans le dossier du projet ne pas oublier d'installer les dépendances
-``` 
-npm install 
-```
+
 
 ## Lancement
-
-Ce projet démarre de 2 façon possible. Mode production et mode développement
 
 ```
 docker compose up
